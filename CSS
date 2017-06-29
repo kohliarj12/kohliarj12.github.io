@@ -1,0 +1,38 @@
+body {
+    background-color: azure;
+    margin: 0px;
+    padding: 50px 60px;
+}
+h1 {
+    color: #004E89;
+    font-family: 'SignPainter', 'skia';
+    font-size: 75px;
+    font-weight: 400;
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+}
+h2 {
+    color: #004E89;
+    font-family: 'SignPainter', 'skia';
+    font-size: 40px;
+    font-weight: 400;
+    margin: 0;
+    text-align: center;
+    padding: 10px;
+}
+h3 {
+    font-family: 'Noteworthy light', 'skia';
+    font-size: 30px;
+    font-weight: 400;
+    margin: 1;
+    text-align: left;
+    padding: 10px;
+    border: 5px double;
+}
+p {
+    font-size: 18px;
+    font-weight: 400;
+    margin 0;
+    text-align: justify;
+}
