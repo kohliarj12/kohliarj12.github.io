@@ -41,8 +41,8 @@ ul, ol {
     font-family: 'Noteworthy light', 'skia';
 }
 .img1 {
-    position: right;
-}
-.img2 {
-    position: left;
+    position: absolute;
+    display: block;
+    top: 50px;
+    right: 50px;
 }
