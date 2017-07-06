@@ -42,7 +42,34 @@ ul, ol {
 }
 .img1 {
     position: absolute;
+    right: 60px;
+}
+.img2 {
+    float: left;
+    top: 100px;
+    left: 50px;
+}
+.list ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #004E89;
+    position: fixed;
+    top: 0;
+    width: 89%;
+}
+.list li {
+    float: left;
+    border-right: 1px solid #bbb;
+}
+.list a {
     display: block;
-    top: 50px;
-    right: 50px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.list li a:hover {
+    background-color: #002847;
 }
